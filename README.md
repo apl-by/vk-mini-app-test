@@ -15,7 +15,7 @@ git clone
 ```
 
 ```bash
-git install
+npm install
 ```
 
 Зарегистрировать mini-app через страницу VK [Мои приложения](https://vk.com/away.php?to=https://vk.com/apps?act=manage):
