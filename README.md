@@ -11,7 +11,7 @@
 Скачать и установить приложение:
 
 ```bash
-git clone
+git clone https://github.com/apl-by/vk-mini-app-test.git
 ```
 
 ```bash
